@@ -521,6 +521,13 @@ ninja.data = [{
           window.open("mailto:%6A%6A%6F%6E%67%68%6F%6F%6E%30%32%32%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/jjong0225", "_blank");
+        },
+      },{
         id: 'social-inspire',
         title: 'Inspire HEP',
         section: 'Socials',
