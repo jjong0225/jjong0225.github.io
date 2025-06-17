@@ -42,5 +42,5 @@ Advancing Medicine through Artificial Intelligence
 
 **Contact**
 - Email: jjonghoon0225@gmail.com
-- Phone: 010-2056-7142
+- Phone: 010-xxxx-xxxx
 - Affiliation: Vision & Machine Learning Lab., Soongsil University
