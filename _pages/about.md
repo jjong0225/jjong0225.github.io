@@ -1,17 +1,16 @@
 ---
 layout: about
 permalink: /
-subtitle: <a href='#'>Vision & Machine Learning Lab., Soongsil Univ.</a> | Advancing Medicine through AI
+subtitle: <a href="https://sites.google.com/view/vmllab">Vision & Machine Learning Lab., Soongsil Univ.</a> | Advancing Medicine through AI
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>안종훈 (Jonghoon Ahn)</p>
+    <p>안종훈 (Jonghoon An)</p>
     <p>1998.02.25</p>
     <p>Soongsil University, South Korea</p>
-    <p>010-2056-7142</p>
     <p>jjonghoon0225@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
