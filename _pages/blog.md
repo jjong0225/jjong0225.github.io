@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: study
-nav: true
+title: blog
+nav: false
 nav_order: 5
 pagination:
   enabled: true

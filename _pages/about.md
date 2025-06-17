@@ -9,7 +9,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>안종훈 (Jonghoon An)</p>
-    <p>1998.02.25</p>
     <p>Soongsil University, South Korea</p>
     <p>jjonghoon0225@gmail.com</p>
 
@@ -28,8 +27,11 @@ latest_posts:
 ---
 
 저는 숫자보다 문제를, 성능보다 가치를 연구하는 AI 연구자입니다. 
+
 '왜 이 연구를 하는가, 어떤 문제를 해결하는가'를 먼저 고민하고, 거기서부터 출발하는 AI 연구를 지향합니다. 
+
 숫자가 말해주지 못하는 의미를 찾고, 성능 지표 너머의 가치를 만들고 싶습니다. 
+
 AI는 단순한 기술이 아니라, 현실 문제에 대한 진짜 해답이 될 수 있다는 믿음으로, 실제 의료 현장에 닿는 AI, 본질에 가까운 연구를 이어가고 있습니다.
 
 **Research Focus**
@@ -38,6 +40,7 @@ AI는 단순한 기술이 아니라, 현실 문제에 대한 진짜 해답이 �
 - Medical Image Registration & Segmentation
 
 **Vision**
+
 Advancing Medicine through Artificial Intelligence
 
 **Contact**
