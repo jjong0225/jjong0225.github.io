@@ -83,17 +83,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-샘플-블로그-글",
-        
-          title: "샘플 블로그 글",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/sample-blog-post/";
-          
-        },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -103,6 +92,28 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
+          
+        },
+      },{id: "post-샘플-블로그-글",
+        
+          title: "샘플 블로그 글",
+        
+        description: "this is what included tabs in a post could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/sample-blog-post/";
+          
+        },
+      },{id: "post-블로그-가이드",
+        
+          title: "블로그 가이드",
+        
+        description: "this is what included tabs in a post could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/blog-content-guide/";
           
         },
       },{id: "post-a-post-with-tabs",
@@ -461,6 +472,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sample-news/";
+            },},{id: "projects-샘플-프로젝트",
+          title: '샘플 프로젝트',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -506,11 +522,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-샘플-프로젝트",
-          title: '샘플 프로젝트',
+            },},{id: "projects-al-folio-블로그-컨텐츠-활용-가이드",
+          title: 'al-folio 블로그 컨텐츠 활용 가이드',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/sample-project/";
+              window.location.href = "/projects/blog-content-guide/";
             },},{
         id: 'social-email',
         title: 'email',
