@@ -1,9 +1,13 @@
 ---
+layout: post
 title: "샘플 블로그 글"
-date: 2024-06-01
-categories: [blog]
-tags: [샘플, 블로그]
+date: 2024-05-01 00:32:13
+description: this is what included tabs in a post could look like
+tags: formatting code
+categories: sample-posts
+tabs: true
 ---
+
 
 # 샘플 블로그 글
 

@@ -1,7 +1,10 @@
 ---
-title: "샘플 프로젝트"
-permalink: /projects/sample-project/
-date: 2024-06-01
+layout: page
+title: 샘플 프로젝트
+description: another project with an image 🎉
+img: assets/img/6.jpg
+importance: 4
+category: fun
 ---
 
 # 샘플 프로젝트
