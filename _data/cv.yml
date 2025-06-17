@@ -25,33 +25,21 @@
 
 - title: Experience
   type: time_table
-  contents:
-    - title: Research Project (Segmentation, Model Optimization)
-      institution: ETRI (Electronics and Telecommunications Research Institute)
-      year: 2021
-      description:
-        - Segmentation 연구 및 경량화
-    - title: Researcher (DIR & Segmentation)
-      institution: INFINITT Healthcare Co., Ltd.
-      year: 2022 - 2024
-      description:
-        - DIR & Segmentation 연구 및 상용화
+  contents: []
 
 - title: Research Projects
   type: time_table
   contents:
-    - title: Aorta Multi-zone Segmentation
-      year: 2024 - 2025
+    - title: 산학협력 프로젝트 (Segmentation, Model Optimization)
+      institution: Soongsil University, Vision & Machine Learning Lab.
+      year: 2021
       description:
-        - 해부학적 정의를 모방한 AI 분할 Framework 제안
-        - 평면 기반 분할로 분할 노이즈 감소 및 성능 21% 증가
-        - 수술 계획 및 진단 정확도 향상
-    - title: Deformable Image Registration (DIR)
+        - ETRI(한국전자통신연구원)와 산학협력: Segmentation 연구 및 경량화
+    - title: 산학협력 프로젝트 (DIR & Segmentation)
+      institution: Soongsil University, Vision & Machine Learning Lab.
       year: 2022 - 2024
       description:
-        - 생성형 모델 기반 자가 지도 학습 DIR Framework 제안
-        - Multi-phase registration 및 correspondence 학습
-        - 정합 GT 없는 환경에서도 정확한 정합 달성
+        - INFINITT Healthcare와 산학협력: DIR & Segmentation 연구 및 상용화
 
 - title: Publications
   type: list

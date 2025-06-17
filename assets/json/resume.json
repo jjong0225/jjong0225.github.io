@@ -22,26 +22,7 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "ETRI (Electronics and Telecommunications Research Institute)",
-      "position": "Research Project (Segmentation, Model Optimization)",
-      "url": "https://etri.re.kr",
-      "startDate": "2021-01-01",
-      "endDate": "2021-12-31",
-      "summary": "Segmentation 연구 및 경량화",
-      "highlights": ["Segmentation 연구 및 경량화"]
-    },
-    {
-      "name": "INFINITT Healthcare Co., Ltd.",
-      "position": "Research Project (DIR & Segmentation)",
-      "url": "https://www.infinitt.com/kr/",
-      "startDate": "2022-01-01",
-      "endDate": "2024-12-31",
-      "summary": "DIR & Segmentation 연구 및 상용화",
-      "highlights": ["DIR & Segmentation 연구 및 상용화"]
-    }
-  ],
+  "work": [],
   "volunteer": [],
   "education": [
     {
