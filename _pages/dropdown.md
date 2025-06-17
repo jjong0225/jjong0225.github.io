@@ -1,12 +1,15 @@
 ---
 layout: page
-title: submenus
+title: study
 nav: true
-nav_order: 8
+nav_order: 5
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: research
+    permalink: /research/
+  - title: divider
+  - title: algorithm
+    permalink: /algorithm/
   - title: divider
   - title: blog
     permalink: /blog/

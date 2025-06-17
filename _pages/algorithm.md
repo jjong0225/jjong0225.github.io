@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
-title: study
-nav: true
-nav_order: 5
+permalink: /algorithm/
+title: algorithm
+nav: false
+nav_order: 6
 pagination:
   enabled: true
   collection: posts
