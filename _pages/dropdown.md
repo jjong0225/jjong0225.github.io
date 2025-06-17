@@ -1,6 +1,6 @@
 ---
 layout: page
-title: study
+title: studies
 nav: true
 nav_order: 5
 dropdown: true
