@@ -2,96 +2,84 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: 안종훈 (Jonghoon An)
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1998.02.25
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S., School of Software
+      institution: Soongsil University, Seoul, South Korea
+      year: 2022.03 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Vision & Machine Learning Lab.
+        - Artificial Intelligence, Medical Imaging
+    - title: B.S., School of Software
+      institution: Soongsil University, Seoul, South Korea
+      year: 2017.03 - 2022.02
       description:
-        - Description 1.
-        - Description 2.
+        - Software Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Project (Segmentation, Model Optimization)
+      institution: ETRI (Electronics and Telecommunications Research Institute)
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Segmentation 연구 및 경량화
+    - title: Researcher (DIR & Segmentation)
+      institution: INFINITT Healthcare Co., Ltd.
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - DIR & Segmentation 연구 및 상용화
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Aorta Multi-zone Segmentation
+      year: 2024 - 2025
+      description:
+        - 해부학적 정의를 모방한 AI 분할 Framework 제안
+        - 평면 기반 분할로 분할 노이즈 감소 및 성능 21% 증가
+        - 수술 계획 및 진단 정확도 향상
+    - title: Deformable Image Registration (DIR)
+      year: 2022 - 2024
+      description:
+        - 생성형 모델 기반 자가 지도 학습 DIR Framework 제안
+        - Multi-phase registration 및 correspondence 학습
+        - 정합 GT 없는 환경에서도 정확한 정합 달성
 
-- title: Honors and Awards
-  type: time_table
+- title: Publications
+  type: list
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection (1저자, Under peer-review, MICCA)
+    - Self-Supervised Cyclic Keypoints for Medical Image Registration (2저자, Under peer-review, ICCV)
+    - Deformable Medical Image Registration via Multiview Adversarial Learning (3저자, Under peer-review, Neurocomputing)
+
+- title: Skills
+  type: list
+  contents:
+    - Python, C++
+    - PyTorch, TensorFlow
+    - 3D Slicer, OpenGL
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Representation Learning
+        - Generative Models
+    - title: Medical Imaging
       items:
-        - Description 1.
-        - Description 2.
+        - Medical Image Registration
+        - Medical Image Segmentation
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - 독서, 음악 감상, 테니스

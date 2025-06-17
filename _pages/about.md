@@ -1,16 +1,18 @@
 ---
 layout: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Vision & Machine Learning Lab., Soongsil Univ.</a> | Advancing Medicine through AI
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>안종훈 (Jonghoon Ahn)</p>
+    <p>1998.02.25</p>
+    <p>Soongsil University, South Korea</p>
+    <p>010-2056-7142</p>
+    <p>jjonghoon0225@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +28,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+저는 숫자보다 문제를, 성능보다 가치를 연구하는 AI 연구자입니다. 
+'왜 이 연구를 하는가, 어떤 문제를 해결하는가'를 먼저 고민하고, 거기서부터 출발하는 AI 연구를 지향합니다. 
+숫자가 말해주지 못하는 의미를 찾고, 성능 지표 너머의 가치를 만들고 싶습니다. 
+AI는 단순한 기술이 아니라, 현실 문제에 대한 진짜 해답이 될 수 있다는 믿음으로, 실제 의료 현장에 닿는 AI, 본질에 가까운 연구를 이어가고 있습니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Research Focus**
+- Artificial Intelligence, Medical Imaging
+- Representation Learning, Generative Models
+- Medical Image Registration & Segmentation
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-olar, or just disable all of them.
+**Vision**
+Advancing Medicine through Artificial Intelligence
+
+**Contact**
+- Email: jjonghoon0225@gmail.com
+- Phone: 010-2056-7142
+- Affiliation: Vision & Machine Learning Lab., Soongsil University
