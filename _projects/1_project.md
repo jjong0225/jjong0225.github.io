@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection
+title: 해부학적 정의 기반 3D CT 대동맥 다중 구간 분할
 description: 대동맥의 해부학적 정의를 추론 구조에 적용하여 3D CT 대동맥 다중 구간 분할의 정확도, 일관성, 의학적 적합도를 향상
 img: assets/img/publication_preview/Aorta.png
 importance: 1

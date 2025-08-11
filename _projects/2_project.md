@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deformable Medical Image Registration via Multiview Adversarial Learning
+title: 자기지도 순환 키포인트 기반 3D CT 정합
 description: 3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용
 img: assets/img/publication_preview/AD_DIR.png
 importance: 2
