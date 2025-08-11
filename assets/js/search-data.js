@@ -458,11 +458,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sample-news/";
-            },},{id: "projects-샘플-프로젝트",
-          title: '샘플 프로젝트',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/10_project/";
             },},{id: "projects-해부학적-정의-기반-3d-ct-대동맥-다중-구간-분할",
           title: '해부학적 정의 기반 3D CT 대동맥 다중 구간 분할',
           description: "대동맥의 해부학적 정의를 추론 구조에 적용하여 3D CT 대동맥 다중 구간 분할의 정확도, 일관성, 의학적 적합도를 향상",
@@ -478,36 +473,26 @@ ninja.data = [{
           description: "3D CT 간 정합에서 Intensity 변화에 취약한 문제를 해결하기 위해, Self-supervised 방식으로 학습한 신뢰성 높은 Keypoint 기반 정합 기법 제안",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-다중-phase-modal-간-3d-ct-정합을-위한-self-supervised-representation-learning",
+          title: '다중 Phase Modal 간 3D CT 정합을 위한 Self-supervised Representation Learning',
+          description: "다중 Phase Modal 간 3D CT 정합을 위해, Style Transfer 기반의 Self-supervised Representation Learning을 수행하고 Feature Similarity를 활용한 정합 기법 적용.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-구조적-속성-추출과-추론-기반-응답을-결합한-visual-question-answering-시스템",
+          title: '구조적 속성 추출과 추론 기반 응답을 결합한 Visual Question Answering 시스템',
+          description: "이미지의 객체·속성·관계 등 구조적 정보를 추출하고, 단계별 추론 과정을 통해 정확한 응답을 생성하는 멀티모달 VQA 시스템",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-infinitt-헬스케어-dir-segmentation-연구-및-실사-적용",
+          title: 'INFINITT 헬스케어 DIR·Segmentation 연구 및 실사 적용',
+          description: "INFINITT 헬스케어 애플리케이션에 적용 가능한 DIR 및 Segmentation의 Python AI 인터페이스 제공",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-quantization-pruning-기반-segmentation-경량화-및-가속화",
+          title: 'Quantization·Pruning 기반 Segmentation 경량화 및 가속화',
+          description: "4K image를 위한 Segmentation 모델을 Quantization과 Pruning을 통해 경량화 및 실시간 처리 성능 향상",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-al-folio-블로그-컨텐츠-활용-가이드",
           title: 'al-folio 블로그 컨텐츠 활용 가이드',
           description: "",
