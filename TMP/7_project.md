@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Quantization·Pruning 기반 Segmentation 경량화 및 가속화
-description: 4K image를 위한 Segmentation 모델을 Quantization과 Pruning을 통해 경량화 및 실시간 처리 성능 향상
-img: assets/img/ETRI.png
-importance: 3
-category: Optimization & Deployment
+title: project 7
+description: with background image
+img: assets/img/4.jpg
+importance: 1
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -43,8 +44,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

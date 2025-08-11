@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: INFINITT 헬스케어 DIR·Segmentation 연구 및 실사 적용
+description: INFINITT 헬스케어 애플리케이션에 적용 가능한 DIR 및 Segmentation의 Python AI 인터페이스 제공
+img: assets/img/INFINITT.jpg
+importance: 3
+category: Optimization & Deployment
 ---
 
 Every project has a beautiful feature showcase page.

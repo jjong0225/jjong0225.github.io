@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects.
 nav: true
 nav_order: 3
-display_categories: [Medical Imaging, Multi-modal, Optimization & Deployment, Others, work, fun]
+display_categories: [Medical Imaging, Multi-modal, Optimization & Deployment, Others]
 horizontal: false
 ---
 
