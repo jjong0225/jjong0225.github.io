@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Self-Supervised Cyclic Keypoints for Medical Image Registration
+description: 3D CT 간 정합에서 Intensity 변화에 취약한 문제를 해결하기 위해, Self-supervised 방식으로 학습한 신뢰성 높은 Keypoint 기반 정합 기법 제안
+img: assets/img/publication_preview/SSL_DIR.png
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Medical Imaging
 ---
 
 Every project has a beautiful feature showcase page.

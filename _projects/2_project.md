@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Deformable Medical Image Registration via Multiview Adversarial Learning
+description: 3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용
+img: assets/img/publication_preview/AD_DIR.png
 importance: 2
-category: work
+category: Medical Imaging
 giscus_comments: true
 ---
 
