@@ -42,5 +42,5 @@ AI는 단순한 기술이 아니라, 현실 문제에 대한 진짜 해답이 �
 
 **Contact**
 - Email: jjonghoon0225@gmail.com
-- Phone: 010-xxxx-xxxx
+- Phone: 010-2056-7142
 - Affiliation: Vision & Machine Learning Lab., Soongsil University
