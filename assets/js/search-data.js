@@ -463,18 +463,18 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-aorta-multi-class-segmentation-via-anatomically-constrained-plane-detection",
-          title: 'Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection',
+            },},{id: "projects-해부학적-정의-기반-3d-ct-대동맥-다중-구간-분할",
+          title: '해부학적 정의 기반 3D CT 대동맥 다중 구간 분할',
           description: "대동맥의 해부학적 정의를 추론 구조에 적용하여 3D CT 대동맥 다중 구간 분할의 정확도, 일관성, 의학적 적합도를 향상",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-deformable-medical-image-registration-via-multiview-adversarial-learning",
-          title: 'Deformable Medical Image Registration via Multiview Adversarial Learning',
+            },},{id: "projects-자기지도-순환-키포인트-기반-3d-ct-정합",
+          title: '자기지도 순환 키포인트 기반 3D CT 정합',
           description: "3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-self-supervised-cyclic-keypoints-for-medical-image-registration",
-          title: 'Self-Supervised Cyclic Keypoints for Medical Image Registration',
+            },},{id: "projects-자기지도-순환-키포인트-기반-3d-ct-정합",
+          title: '자기지도 순환 키포인트 기반 3D CT 정합',
           description: "3D CT 간 정합에서 Intensity 변화에 취약한 문제를 해결하기 위해, Self-supervised 방식으로 학습한 신뢰성 높은 Keypoint 기반 정합 기법 제안",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
