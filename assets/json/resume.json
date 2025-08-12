@@ -122,7 +122,6 @@
       "name": "Medical Imaging",
       "icon": "fa-solid fa-briefcase-medical",
       "keywords": [
-        "CT · MRI · X-ray",
         "Registration",
         "Segmentation",
         "XAI"

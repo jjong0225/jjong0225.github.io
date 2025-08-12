@@ -3,7 +3,7 @@ layout: page
 title: INFINITT 헬스케어 - 정합 & 분할 연구 및 상용화
 description: INFINITT 헬스케어 애플리케이션에 적용 가능한 정홥 & 분할의 Python AI 인터페이스 제공
 img: assets/img/INFINITT.jpg
-importance: 3
+importance: 6
 category: Optimization & Deployment
 ---
 

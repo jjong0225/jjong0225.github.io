@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Quantization & Pruning을 통한 Segmentation 경량화 및 가속화
-description: 4K image를 위한 Segmentation 모델을 Quantization과 Pruning을 통해 경량화 및 실시간 처리 성능 향상
+title: Segmentation 모델 경량화 및 가속화: Pruning, Quantization, ONNX Runtime 최적화
+description: 4K 해상도 Segmentation 모델에 대해 Pruning과 데이터 타입 Quantization을 적용하고, ONNX Runtime 최적화를 통해 경량화와 실시간 처리 성능 향상을 달성.
 img: assets/img/ETRI.png
-importance: 3
+importance: 7
 category: Optimization & Deployment
 ---
 
