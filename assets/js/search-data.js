@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
@@ -483,13 +483,13 @@ ninja.data = [{
           description: "이미지의 객체·속성·관계 등 구조적 정보를 추출하고, 단계별 추론 과정을 통해 정확한 응답을 생성하는 멀티모달 VQA 시스템",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-infinitt-헬스케어-dir-segmentation-연구-및-실사-적용",
-          title: 'INFINITT 헬스케어 DIR·Segmentation 연구 및 실사 적용',
-          description: "INFINITT 헬스케어 애플리케이션에 적용 가능한 DIR 및 Segmentation의 Python AI 인터페이스 제공",
+            },},{id: "projects-infinitt-헬스케어-정합-amp-분할-연구-및-상용화",
+          title: 'INFINITT 헬스케어 - 정합 &amp;amp; 분할 연구 및 상용화',
+          description: "INFINITT 헬스케어 애플리케이션에 적용 가능한 정홥 &amp; 분할의 Python AI 인터페이스 제공",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-quantization-pruning-기반-segmentation-경량화-및-가속화",
-          title: 'Quantization·Pruning 기반 Segmentation 경량화 및 가속화',
+            },},{id: "projects-quantization-amp-pruning을-통한-segmentation-경량화-및-가속화",
+          title: 'Quantization &amp;amp; Pruning을 통한 Segmentation 경량화 및 가속화',
           description: "4K image를 위한 Segmentation 모델을 Quantization과 Pruning을 통해 경량화 및 실시간 처리 성능 향상",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
