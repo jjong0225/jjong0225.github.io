@@ -59,10 +59,23 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <!-- Projects Preview -->
+    <h2>
+      <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
+    </h2>
+    <ul>
+      {% assign sorted_projects = site.projects | sort: "importance" | reverse %}
+      {% for project in sorted_projects limit:5 %}
+        <li>
+          <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>    
 
     <!-- Social -->
     {% if page.social %}
