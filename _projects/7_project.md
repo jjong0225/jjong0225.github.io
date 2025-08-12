@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantization·Pruning 기반 Segmentation 경량화 및 가속화
+title: Quantization & Pruning을 통한 Segmentation 경량화 및 가속화
 description: 4K image를 위한 Segmentation 모델을 Quantization과 Pruning을 통해 경량화 및 실시간 처리 성능 향상
 img: assets/img/ETRI.png
 importance: 3

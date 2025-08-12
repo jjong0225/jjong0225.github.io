@@ -5,6 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - jjong0225/Point_based_DIR
+  - jjong0225/ACP
   - chungmy/platform
   - ShootOverThere/HellTrain
   - jjong0225/HBW
