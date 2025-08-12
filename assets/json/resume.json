@@ -131,14 +131,41 @@
   ],
   "interests": [
     {
-      "name": "Artificial Intelligence",
+      "name": "Medical Imaging",
+      "icon": "fa-solid fa-briefcase-medical",
+      "keywords": [
+        "CT · MRI · X-ray",
+        "Registration",
+        "Segmentation",
+        "XAI"
+      ]
+    },
+    {
+      "name": "Foundation Models & Representation Learning",
       "icon": "fa-solid fa-brain",
       "keywords": [
-        "Medical Imaging",
-        "Representation Learning",
-        "Generative Models",
-        "Medical Image Registration",
-        "Medical Image Segmentation"
+        "Self-supervised Learning",
+        "Continual Learning",
+        "Representation Learning - Contrastive / Masked Modeling (JEPA, MAE)",
+        "Generative Models"
+      ]
+    },
+    {
+      "name": "Multimodal",
+      "icon": "fa-solid fa-layer-group",
+      "keywords": [
+        "Vision-Language",
+        "Cross-modal Alignment",
+      ]
+    },
+    {
+      "name": "Optimization & Deployment",
+      "icon": "fa-solid fa-rocket",
+      "keywords": [
+        "Model Quantization",
+        "Pruning",
+        "ONNX / TensorRT Optimization",
+        "Real-time Inference"
       ]
     }
   ],
