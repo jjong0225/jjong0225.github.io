@@ -117,18 +117,6 @@
       "keywords": ["Docker", "ONNX Runtime", "Model Quantization & Pruning"]
     }
   ],
-  "languages": [
-    {
-      "language": "Korean",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Medical Imaging",
@@ -167,6 +155,18 @@
         "ONNX / TensorRT Optimization",
         "Real-time Inference"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "references": []
