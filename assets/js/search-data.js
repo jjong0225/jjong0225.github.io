@@ -481,9 +481,9 @@ ninja.data = [{
           description: "INFINITT 헬스케어 애플리케이션에 적용 가능한 정홥 &amp; 분할의 Python AI 인터페이스 제공",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-quantization-amp-pruning을-통한-segmentation-경량화-및-가속화",
-          title: 'Quantization &amp;amp; Pruning을 통한 Segmentation 경량화 및 가속화',
-          description: "4K image를 위한 Segmentation 모델을 Quantization과 Pruning을 통해 경량화 및 실시간 처리 성능 향상",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-al-folio-블로그-컨텐츠-활용-가이드",
