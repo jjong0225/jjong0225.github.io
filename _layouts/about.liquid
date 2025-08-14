@@ -69,7 +69,7 @@ layout: default
       <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
     </h2>
 
-    {%- assign categories_order = "Medical Imaging AI|Multi-modal AI|Optimization & Deployment|Others" | split:"|" -%}
+    {%- assign categories_order = "Medical Imaging|Multi-modal|Optimization & Deployment|Others" | split:"|" -%}
     {%- assign all_projects = site.projects -%}
 
     {% for category in categories_order %}
