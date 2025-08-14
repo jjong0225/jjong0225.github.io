@@ -87,7 +87,7 @@ layout: default
           {% for project in cat_items %}
             {% assign href = project.url | default: project.permalink | default: '/projects/' %}
             <li style="margin:.2rem 0;">
-              <a href="{{ href | relative_url }}" title="{{ project.title }}" style="color: var(--global-text-color); text-decoration: none;">{{ project.title }}</a>
+              <a href="{{ href | relative_url }}" title="{{ project.title }}">{{ project.title }}</a>
               {%- comment -%} 연도 붙이고 싶으면 아래 주석 해제
               {# <span class="dates"> — {{ project.startDate | slice:0,4 }}{% if project.endDate %}–{{ project.endDate | slice:0,4 }}{% endif %}</span> #}
               {%- endcomment -%}

@@ -291,10 +291,10 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-hover-color); /* 수정, 색상 가시성 개선 */
     // color: var(--global-text-color);
     font-size: 1.2rem; /* 수정, 기본보다 폰트 크게 */
-    font-weight: bold; /* 수정, Bold 처리 */
 
     &:hover {
       color: var(--global-hover-color);
+      font-weight: bold; /* 수정, Bold 처리 */
     }
   }
 
