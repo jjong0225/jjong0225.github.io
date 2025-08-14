@@ -59,14 +59,14 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: var(--global-theme-color)">Publications</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
 
     <!-- Projects Preview: grouped by category, numbered titles only -->
     <h2>
-      <a href="{{ '/projects/' | relative_url }}" style="color: inherit">Projects</a>
+      <a href="{{ '/projects/' | relative_url }}" style="color: var(--global-theme-color)">Projects</a>
     </h2>
 
     {%- assign categories_order = "Medical Imaging|Multi-modal|Optimization & Deployment|Others" | split:"|" -%}
@@ -87,7 +87,7 @@ layout: default
           {% for project in cat_items %}
             {% assign href = project.url | default: project.permalink | default: '/projects/' %}
             <li style="margin:.2rem 0;">
-              <a href="{{ href | relative_url }}" title="{{ project.title }}">{{ project.title }}</a>
+              <a href="{{ href | relative_url }}" title="{{ project.title }}" style="color: var(--global-text-color); text-decoration: none;">{{ project.title }}</a>
               {%- comment -%} 연도 붙이고 싶으면 아래 주석 해제
               {# <span class="dates"> — {{ project.startDate | slice:0,4 }}{% if project.endDate %}–{{ project.endDate | slice:0,4 }}{% endif %}</span> #}
               {%- endcomment -%}

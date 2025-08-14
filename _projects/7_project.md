@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Segmentation 모델 경량화 및 가속화: Pruning, Quantization, ONNX Runtime 최적화
+title: Segmentation 모델 경량화 및 가속화 - Pruning, Quantization, ONNX Runtime 최적화
 description: 4K 해상도 Segmentation 모델에 대해 Pruning과 데이터 타입 Quantization을 적용하고, ONNX Runtime 최적화를 통해 경량화와 실시간 처리 성능 향상을 달성.
 img: assets/img/ETRI.png
 importance: 6

@@ -36,9 +36,6 @@ AI는 단순한 기술이 아니라, 현실 문제에 대한 진짜 해답이 �
 - Representation Learning, Generative Models
 - Medical Image Registration & Segmentation
 
-**Vision**
-
-  Advancing Medicine through Artificial Intelligence
 
 **Contact**
 - Email: jjonghoon0225@gmail.com
