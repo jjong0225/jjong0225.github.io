@@ -77,19 +77,23 @@ layout: default
       {% if cat_items.size > 0 %}
         {%- comment -%} 헤더 라벨(원하는 표기) {%- endcomment -%}
         {% assign label = category %}
-        {% if category contains "Medical" %}{% assign label = "Medical" %}
+        {% if category contains "Medical" %}{% assign label = "Medical Imaging" %}
         {% elsif category contains "Multi" %}{% assign label = "Multimodal" %}
         {% elsif category contains "Optimization" %}{% assign label = "Optimization & Deployment" %}
         {% endif %}
 
-        <h3 style="border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.25rem; margin-top: 1.5rem; color: var(--global-text-color);">
-          {{ label }}
-        </h3>        
-        <ol style="margin:.25rem 0 1rem 1.25rem;">
+        <h3 style="border-bottom: 1px solid var(--global-divider-color);
+                padding-bottom: 0.25rem;
+                margin-top: 1.5rem;
+                margin-left: 1rem;   /* ← 여기에 들여쓰기 추가 */
+                color: var(--global-text-color);">
+        {{ label }}
+        </h3>
+        <ol style="margin:.25rem 0 1rem 2rem;">
           {% for project in cat_items %}
             {% assign href = project.url | default: project.permalink | default: '/projects/' %}
             <li style="margin:.2rem 0;">
-              <a href="{{ href | relative_url }}" title="{{ project.title }}">{{ project.title }}</a>
+              <a href="{{ href | relative_url }}" title="{{ project.title }}" color: var(--global-text-color)>{{ project.title }}</a>
               {%- comment -%} 연도 붙이고 싶으면 아래 주석 해제
               {# <span class="dates"> — {{ project.startDate | slice:0,4 }}{% if project.endDate %}–{{ project.endDate | slice:0,4 }}{% endif %}</span> #}
               {%- endcomment -%}
