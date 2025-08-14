@@ -481,9 +481,9 @@ ninja.data = [{
           description: "INFINITT 헬스케어 애플리케이션에 적용 가능한 정홥 &amp; 분할의 Python AI 인터페이스 제공",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-segmentation-모델-경량화-및-가속화-pruning-quantization-onnx-runtime-최적화",
+          title: 'Segmentation 모델 경량화 및 가속화 - Pruning, Quantization, ONNX Runtime 최적화',
+          description: "4K 해상도 Segmentation 모델에 대해 Pruning과 데이터 타입 Quantization을 적용하고, ONNX Runtime 최적화를 통해 경량화와 실시간 처리 성능 향상을 달성.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-al-folio-블로그-컨텐츠-활용-가이드",
