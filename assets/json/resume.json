@@ -60,10 +60,10 @@
     },
     {
       "name": "Deformable Medical Image Registration via Multiview Adversarial Learning",
-      "publisher": "(공동 1저자) Biomedical Signal Processing and Control, Under Review",
+      "publisher": "Biomedical Signal Processing and Control, Under Review",
       "releaseDate": "",
       "url": "https://jjong0225.github.io/projects/3_project/",
-      "summary": "3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용"
+      "summary": "(공동 1저자) 3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용"
     },
     {
       "name": "Self-Supervised Cyclic Keypoints for Medical Image Registration",
