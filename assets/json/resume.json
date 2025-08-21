@@ -56,22 +56,22 @@
       "publisher": "MICCA 2025 - International Conference on Medical Image Computing and Computer-Assisted Intervention",
       "releaseDate": "2025-09-23",
       "url": "https://jjong0225.github.io/projects/1_project/",
-      "summary": "대동맥의 해부학적 정의를 추론 구조에 적용하여 3D CT 대동맥 다중 구간 분할의 정확도, 일관성, 의학적 적합도를 향상"
-    },
-    {
-      "name": "Self-Supervised Cyclic Keypoints for Medical Image Registration",
-      "publisher": "Under Review",
-      "releaseDate": "",
-      "url": "https://jjong0225.github.io/projects/2_project/",
-      "summary": "3D CT 간 정합에서 Intensity 변화에 취약한 문제를 해결하기 위해, Self-supervised 방식으로 학습한 신뢰성 높은 Keypoint 기반 정합 기법 제안"
+      "summary": "(1저자) 대동맥의 해부학적 정의를 추론 구조에 적용하여 3D CT 대동맥 다중 구간 분할의 정확도, 일관성, 의학적 적합도를 향상"
     },
     {
       "name": "Deformable Medical Image Registration via Multiview Adversarial Learning",
-      "publisher": "Biomedical Signal Processing and Control, Under Review",
+      "publisher": "(공동 1저자) Biomedical Signal Processing and Control, Under Review",
       "releaseDate": "",
       "url": "https://jjong0225.github.io/projects/3_project/",
       "summary": "3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용"
-    }    
+    },
+    {
+      "name": "Self-Supervised Cyclic Keypoints for Medical Image Registration",
+      "publisher": "In preparation for resubmission",
+      "releaseDate": "",
+      "url": "https://jjong0225.github.io/projects/2_project/",
+      "summary": "3D CT 간 정합에서 Intensity 변화에 취약한 문제를 해결하기 위해, Self-supervised 방식으로 학습한 신뢰성 높은 Keypoint 기반 정합 기법 제안"
+    }
   ],
   "projects": [
     {
