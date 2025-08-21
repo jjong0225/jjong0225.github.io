@@ -124,11 +124,10 @@
       "keywords": [
         "Registration",
         "Segmentation",
-        "XAI"
       ]
     },
     {
-      "name": "Foundation Models & Representation Learning",
+      "name": "Learning Paradigms & Representations",
       "icon": "fa-solid fa-brain",
       "keywords": [
         "Self-supervised Learning",
@@ -141,8 +140,8 @@
       "name": "Multimodal",
       "icon": "fa-solid fa-layer-group",
       "keywords": [
-        "Vision-Language",
-        "Cross-modal Alignment"
+        "Cross-modal Alignment",
+        "Vision-Language"
       ]
     },
     {
