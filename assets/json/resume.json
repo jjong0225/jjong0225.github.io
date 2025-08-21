@@ -132,8 +132,8 @@
       "keywords": [
         "Self-supervised Learning",
         "Continual Learning",
-        "Representation Learning - Contrastive / Masked Modeling (JEPA, MAE)",
-        "Generative Models"
+        "Contrastive learning",
+        "Masked Representation Learning (I-JEPA, iBOT, MAE)"
       ]
     },
     {
