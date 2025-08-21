@@ -60,7 +60,7 @@
     },
     {
       "name": "Deformable Medical Image Registration via Multiview Adversarial Learning",
-      "publisher": "Biomedical Signal Processing and Control, Under Review",
+      "publisher": "Biomedical Signal Processing and Control, Under Revision",
       "releaseDate": "",
       "url": "https://jjong0225.github.io/projects/3_project/",
       "summary": "(공동 1저자) 복부 CT 정합 과정에서 큰 변형으로 인한 영상 왜곡 문제를 줄이기 위해, Multi-view Adversarial learning을 제안하여 보다 사실적이고 신뢰할 수 있는 정합을 구현.”"
