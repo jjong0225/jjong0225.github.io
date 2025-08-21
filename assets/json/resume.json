@@ -53,7 +53,7 @@
   "publications": [
     {
       "name": "Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection",
-      "publisher": "MICCA 2025 - International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "publisher": "MICCAI 2025 - International Conference on Medical Image Computing and Computer-Assisted Intervention",
       "releaseDate": "2025-09-23",
       "url": "https://jjong0225.github.io/projects/1_project/",
       "summary": "(1저자) 보이지 않는 대동맥 다중 구간으로 인한 분할 노이즈 문제를 해결하기 위해, 해부학적 정의와 의사들의 분할 방식을 AI로 모델링하여 일관되고 임상적으로 신뢰성 있는 분할을 구현."
