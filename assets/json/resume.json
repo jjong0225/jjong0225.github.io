@@ -150,8 +150,7 @@
       "keywords": [
         "Model Quantization",
         "Pruning",
-        "ONNX / TensorRT Optimization",
-        "Real-time Inference"
+        "ONNX / TensorRT Optimization"
       ]
     }
   ],
