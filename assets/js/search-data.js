@@ -456,8 +456,8 @@ ninja.data = [{
           description: "대동맥의 해부학적 정의를 추론 구조에 적용하여 3D CT 대동맥 다중 구간 분할의 정확도, 일관성, 의학적 적합도를 향상",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-자기지도-순환-키포인트-기반-3d-ct-정합",
-          title: '자기지도 순환 키포인트 기반 3D CT 정합',
+            },},{id: "projects-다중-view-적대-학습-기반-변형-정합",
+          title: '다중 View 적대 학습 기반 변형 정합',
           description: "3D 복부 CT 간 정합의 사실성과 신뢰성 향상을 위해 다중 View Adversarial Learning 기법을 적용",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
