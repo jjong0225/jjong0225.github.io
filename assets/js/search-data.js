@@ -510,7 +510,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/종훈-안-336851312", "_blank");
+          window.open("https://www.linkedin.com/in/jonghoon-an-336851312", "_blank");
         },
       },{
         id: 'social-rss',
