@@ -53,17 +53,17 @@
   "publications": [
     {
       "name": "Aorta Multi-class Segmentation via Anatomically Constrained Plane Detection",
-      "publisher": "MICCAI 2025 - International Conference on Medical Image Computing and Computer-Assisted Intervention",
+      "publisher": "(First Author) MICCAI 2025 - International Conference on Medical Image Computing and Computer-Assisted Intervention",
       "releaseDate": "2025-09-23",
       "url": "https://jjong0225.github.io/projects/1_project/",
-      "summary": "(1저자) 보이지 않는 대동맥 다중 구간으로 인한 분할 노이즈 문제를 해결하기 위해, 해부학적 정의와 의사들의 분할 방식을 AI로 모델링하여 일관되고 임상적으로 신뢰성 있는 분할을 구현."
+      "summary": "보이지 않는 대동맥 다중 구간으로 인한 분할 노이즈 문제를 해결하기 위해, 해부학적 정의와 의사들의 분할 방식을 AI로 모델링하여 일관되고 임상적으로 신뢰성 있는 분할을 구현."
     },
     {
       "name": "Deformable Medical Image Registration via Multiview Adversarial Learning",
-      "publisher": "Biomedical Signal Processing and Control",
+      "publisher": "(Co-First Author) Biomedical Signal Processing and Control",
       "releaseDate": "2026-02-19",
       "url": "https://jjong0225.github.io/projects/3_project/",
-      "summary": "(공동 1저자) 복부 CT 정합 과정에서 큰 변형으로 인한 영상 왜곡 문제를 줄이기 위해, Multi-view Adversarial learning을 제안하여 보다 사실적이고 신뢰할 수 있는 정합을 구현.”"
+      "summary": "복부 CT 정합 과정에서 큰 변형으로 인한 영상 왜곡 문제를 줄이기 위해, Multi-view Adversarial learning을 제안하여 보다 사실적이고 신뢰할 수 있는 정합을 구현.”"
     },
     {
       "name": "Self-Supervised Cyclic Keypoints for Medical Image Registration",
