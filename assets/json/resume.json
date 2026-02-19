@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "안종훈 (Jonghoon An)",
-    "label": "AI Researcher",
+    "label": "AI Engineer & Researcher",
     "image": "",
     "email": "jjonghoon0225@gmail.com",
     "phone": "010-2056-7142",
@@ -79,16 +79,14 @@
       "summary": "해부학적 정의를 모방한 AI 분할 Framework 제안. 평면 기반 분할로 분할 노이즈 감소 및 성능 21% 증가. 수술 계획 및 진단 정확도 향상.",
       "highlights": ["해부학적 정의 기반 분할", "분할 노이즈 감소", "성능 21% 증가"],
       "startDate": "2024-01-01",
-      "endDate": "2025-12-31",
-      "url": ""
+      "endDate": "2025-12-31"
     },
     {
       "name": "Deformable Image Registration (DIR)",
       "summary": "생성형 모델 기반 자기 지도 학습 DIR Framework 제안. Multi-phase registration 및 correspondence 학습. 정합 GT 없는 환경에서도 정확한 정합 달성.",
       "highlights": ["생성형 모델 기반 자기 지도 학습", "Multi-phase registration", "정합 GT 없는 환경 지원"],
       "startDate": "2022-01-01",
-      "endDate": "2024-12-31",
-      "url": ""
+      "endDate": "2024-12-31"
     }
   ],  
   "skills": [
@@ -115,43 +113,6 @@
       "level": "Advanced",
       "icon": "fa-solid fa-rocket",
       "keywords": ["Docker", "ONNX Runtime", "Model Quantization & Pruning"]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Medical Imaging",
-      "icon": "fa-solid fa-briefcase-medical",
-      "keywords": [
-        "Registration",
-        "Segmentation"
-      ]
-    },
-    {
-      "name": "Learning Paradigms & Representations",
-      "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Self-supervised Learning",
-        "Continual Learning",
-        "Contrastive learning",
-        "Masked Representation Learning (I-JEPA, iBOT, MAE)"
-      ]
-    },
-    {
-      "name": "Multi-modal",
-      "icon": "fa-solid fa-layer-group",
-      "keywords": [
-        "Cross-modal Alignment",
-        "Vision-Language"
-      ]
-    },
-    {
-      "name": "Optimization & Deployment",
-      "icon": "fa-solid fa-rocket",
-      "keywords": [
-        "Model Quantization",
-        "Pruning",
-        "ONNX / TensorRT Optimization"
-      ]
     }
   ],
   "languages": [

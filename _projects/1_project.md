@@ -16,4 +16,4 @@ related_publications: true
 </div>
 <div class="caption">
     대동맥 분할 Poster.
-</div> -->
+</div>

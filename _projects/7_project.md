@@ -15,4 +15,4 @@ category: Optimization & Deployment
 </div>
 <div class="caption">
     Segmentation 모델 경량화 및 가속화 - Pruning, Quantization, ONNX Runtime 최적화
-</div> -->
+</div>

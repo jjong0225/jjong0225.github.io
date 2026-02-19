@@ -15,4 +15,4 @@ category: Medical Imaging
 </div>
 <div class="caption">
     자가 지도 순환 키포인트 기반 3D CT 정합.
-</div> -->
+</div>

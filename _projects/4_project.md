@@ -15,5 +15,5 @@ category: Multi-modal
 </div>
 <div class="caption">
     다중 Phase Modal 간 3D CT 정합을 위한 Self-supervised.
-</div> -->
+</div>
 

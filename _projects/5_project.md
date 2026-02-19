@@ -14,7 +14,7 @@ category: Multi-modal
 </div>
 <div class="caption">
     구조적 속성 추출과 추론 기반 응답을 결합한 Visual Question Answering 시스템.
-</div> -->
+</div>
 
 
 

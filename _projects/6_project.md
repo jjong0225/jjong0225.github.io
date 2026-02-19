@@ -15,4 +15,4 @@ category: Optimization & Deployment
 </div>
 <div class="caption">
     INFINITT 헬스케어 - 정합 & 분할 연구 및 상용화
-</div> -->
+</div>
